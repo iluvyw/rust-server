@@ -1,0 +1,3 @@
+# rust-server
+
+cargo run
